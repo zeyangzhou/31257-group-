@@ -15,4 +15,5 @@ On the other hand, from the perspective of company, the issues of time and cost 
 variety of preperation need to be considered once the development is having some trouble or not successful.
 
 
+![Empathy Map (1)](https://user-images.githubusercontent.com/62224435/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
 
