@@ -1,6 +1,5 @@
 # TRAVEL COMPANY CALL MANAGEMENT CENTRE (CMC)
- <center>
-  
+
   ### Tutorial No: &emsp;5 <br/>
   ### Tutor Name:&ensp; Abdul Babar <br/>
   ### Team Members: 
@@ -9,8 +8,7 @@
   * Walled Sahak (13873068)
   * Yanto Yanto (13133259)
   * Zeyang Zhou (13599814)
-  
- </center>
+ <hr/>
 
 ## Project Objectives
 ### Instruction
