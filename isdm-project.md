@@ -33,6 +33,8 @@ variety of preperation need to be considered once the development is having some
 
 
 ## Design Thinking Principles
+From the perspective of design thinking principle, the solutions on the discussion topic have the room for improvement. For instance, the company can do a customer survey focusing on the hobby and character of customers. The customers who have done the survey will get
+a free gift package or vouchers. Doing so may cost some money, but there is necessity knowing demands and interests of different stages of customers. After the survey is completed, the RM profile can be better applied. Also, the dataset of customer database will have more comprehensive expansion. On the other hand, it contains some biases on the part of inbound calls. The score may be affected due to some other elements. (service attitude, calling connection etc.) Instead, the score mechanism can be developed more directly. For example, the staff can ask customer if the customer is interested to the package or something need to be improved for the package. After that, the thought of customer will be recorded onto the database of customer interests.
 
 
 
