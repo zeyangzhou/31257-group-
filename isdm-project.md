@@ -26,7 +26,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 
 
 ## Stakeholders
-
+Customer, Relationship, Staff, Potential cutomers. 
 
 
 
