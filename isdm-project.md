@@ -27,7 +27,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 
 ## Stakeholders
 Customer, Relationship, Staff, Potential cutomers. 
-![Stakeholders](Diagarms/97449275_551606712446642_3336799421277929472_n.png)
+(Diagarms/97449275_551606712446642_3336799421277929472_n.png)
 
 
 ## Design Thinking Principles
