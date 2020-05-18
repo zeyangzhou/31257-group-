@@ -26,7 +26,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 
 
 ## Stakeholders
-![Stakeholders](Diagarms/97449275_551606712446642_3336799421277929472_n.png)
+![Stakeholders](diagrams/97449275_551606712446642_3336799421277929472_n.png)
 
 
 ## Design Thinking Principles
