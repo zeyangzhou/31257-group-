@@ -47,6 +47,18 @@ The travel company hopes to develop an information system that will provide the 
 ## Assumptions
 
 
+## User Stories
+| As a/an | I want to | so that | Priority |
+| :------------- | :----------- | :----------- | :----------- |
+| Customer | call the company easily | I can ask or book the holiday pacakage efficiently | High |
+| Customer | talk with the skilled and suitable employee | I can get the best answer from my question| High |
+| Customer | directly connect to the relationship manager | I do not need to wait on the call queue | Medium|
+| Customer | the company knows my favourite holiday packages | they can contact me whenever they offer the packages | Medium |
+| Customer | give the feedback and rating to the employee who I talked with | they can know how their performance | Low |
+| Relationship Manager | get the feedback or rating from my customer | I can improve my customer service skill | Medium |
+| Relationship Manager | know my customer needs or details | I can serve the customer well and increase the sales | High |
+| Relationship Manager | get the customer list with their details | I can contact them and increase the sales | High |
+| Relationship Manager | stores my skills and profile in the company | I can get directed with the customer based on my profile and skills | High |
 
 
 
