@@ -64,12 +64,13 @@ The travel company hopes to develop an information system that will provide the 
 ***
   ![InboundCallProcess](Diagrams/classDiagram.png)
   
-### Collaborative Diagram
+### Collaboration Diagram
 ***
-
-
-
-
+  #### Inbound Call Process
+  ![InboundCallProcess](Diagrams/inboundCollaborative.png)
+  #### Outbound Call Process
+  ![OutboundCallProcess](Diagrams/outboundCollaborative.png)
+  
 ## Competitive Advantages
 
 
