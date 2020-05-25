@@ -48,8 +48,12 @@ The travel company hopes to develop an information system that will provide the 
 
 
 ## Workproducts and Models
-
-
+### Activity Diagram
+***
+#### Inbound Call Process
+![InboundCallProcess](Diagrams/inBoundActivity.png)
+#### Outbound Call Process
+![OutboundCallProcess](Diagrams/outboundActivity.png)
 
 
 
