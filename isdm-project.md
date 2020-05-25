@@ -9,6 +9,9 @@
   * Yanto Yanto (13133259)
   * Zeyang Zhou (13599814)
  <hr/>
+## Table of Contents 
+
+
 
 ## Project Objectives
 ### Instruction
@@ -35,7 +38,7 @@ From the perspective of design thinking principles, the solutions outlined in th
 
 
 
-## Definition and process of agile methodology
+## Agile Methodology - Scrum
 The agile methodology is a project management process, which is mainly used for software development. In this process, customer needs and solutions are developed through the joint efforts of the company, the team, and the customer.
 The travel company hopes to develop an information system that will provide the company with services and assistance to their customers. And the system will automatically help customers match travel plans suitable for customers. For example, when a company sells a specific travel package, the system automatically matches suitable customers. Match with Relationship Managers based on client's age, hobbies, etc. This makes it easier for RM to persuade customers to buy products. When company employees use the system, it only takes a very short time to match.
 
@@ -59,3 +62,11 @@ The travel company hopes to develop an information system that will provide the 
 
 
 ## Competitive Advantages
+
+
+## Conclusion and Recommendations
+
+
+## References 
+
+## Appendices
