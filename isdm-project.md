@@ -53,6 +53,9 @@ The travel company hopes to develop an information system that will provide the 
 ## Workproducts and Models
 ### Use Case Diagram
 ***
+  #### Call Management System
+  ![InboundCallProcess](Diagrams/usecase.png)
+  
 ### Activity Diagram
 ***
   #### Inbound Call Process
