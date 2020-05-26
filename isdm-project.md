@@ -9,7 +9,7 @@
   * Yanto Yanto (13133259)
   * Zeyang Zhou (13599814)
  <hr/>
-## Table of Contents 
+
 
 
 
@@ -29,7 +29,11 @@ On the other hand, from the perspective of the company, the constraints of time 
 
 
 ## Stakeholders
+### Stakeholders table 
+![Stakeholders Table ](Diagrams/stakeholdertable.png)
+### Stakeholders Diagram 
 ![Stakeholders](Diagrams/stakeholder.png.png)
+### Empathy diagram
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
 
 
