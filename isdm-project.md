@@ -93,7 +93,13 @@ The travel company hopes to develop an information system that will provide the 
   #### Outbound Call Process
   ![OutboundCallProcess](Diagrams/outboundCollaborative.png)
   
-## Competitive Advantages
+## Business User Analysis
+  
+  ### Competitive Advantages
+  
+  
+  ### Possible Effects When Project Fails
+  
 
 
 ## Conclusion and Recommendations
