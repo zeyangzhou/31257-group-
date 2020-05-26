@@ -96,7 +96,9 @@ The travel company hopes to develop an information system that will provide the 
 ## Business User Analysis
   
   ### Competitive Advantages
-  
+  There are several Advantages when a new Information System implanted in the in-house call management system(CMC). The system machine's intervention will reduce many human resources and save the company a high cost in employment and management. The calling center is a substantial task workplace that could receive thousands of calling each day, the upgraded system allows the call management center differentiating different phone call and gaining information before a staff answered a call from a customer, so the time will be reduced to the minimum and requires can be solved faster with all the prework has been done by the information system.
+The significant advantage of the information system implantation, the calling center will be working more smoothly. This will provide more service time and less waiting time for customers. And it will also Improve relationship managers' performance and working time. This leads to better customer service, which will boost customer quantity and attraction, and higher sales of service packages, resulting in higher company profits.
+Compare to Other business's model, The CMC which have the IS system will be processed in a whole different process, which will be operating smoothly and efficiently. At last, The advantage can be summarised as four significant points. Firstly,  Increase Customer' and Buyers' service quality, which will boost customer quantity and attraction. Second of all, Reduce company costs, less expenditure on employment and management. Thirdly, Raise barriers to market entry And gaining process advantage to other businesses. Finally,  the upgraded to a new business model will be differentiating and enhancing products and services.
   
   ### Possible Effects When Project Fails
   
