@@ -101,7 +101,8 @@ The significant advantage of the information system implantation, the calling ce
 Compare to Other business's model, The CMC which have the IS system will be processed in a whole different process, which will be operating smoothly and efficiently. At last, The advantage can be summarised as four significant points. Firstly,  Increase Customer' and Buyers' service quality, which will boost customer quantity and attraction. Second of all, Reduce company costs, less expenditure on employment and management. Thirdly, Raise barriers to market entry And gaining process advantage to other businesses. Finally,  the upgraded to a new business model will be differentiating and enhancing products and services.
   
   ### Possible Effects When Project Fails
-  
+   The actual impact when an Infomation system fails when it is already implanted in the business could be huge. However, when the project was first invented for the CMC, it will be considered a minimum of the damage cost to the leading company.
+There will be three possible effects that could happen once project fails, first of all, will be financial costs, compare to other businesses, the financial cost will mainly be caused by reviving the customer details and employment costs to fixing the system. That will lead to secondary effects that are wasted time and human resources, because of the maintenance requires less employee, so the project teams could be small after the IS system be implanted for CMC, so when coming to the project fails or have a significant problem, it requires whole teams or more to fix.  And last possible Effects could be missing or corrupted data in CMC, which is a critical problem that needs to be considered, to avoid this, it is keeping data safe and secure all the time, which requires teams member check every day.
 
 
 ## Conclusion and Recommendations
