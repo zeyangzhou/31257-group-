@@ -147,6 +147,5 @@ anonymous，How Do Information Systems Provide Competitive Advantage?，https://
 
 Porter,M,E.Millar,V,E.1985 How Information Gives You Competitive Advantage,https://hbr.org/1985/07/how-information-gives-you-competitive-advantage
 
-Dam, R., Siang, T. 2019, ‘Stage 2 in the Design Think Process: Define the Problem and Interpret the Results’, Interaction Design           Foundation, November, viewed 20 May 2020, <https://www.interaction-design.org/literature/article/stage-2-in-the-design-   
-        thinking-process-define-the-problem-and-interpret-the-results>.
+Dam, R., Siang, T. 2019, ‘Stage 2 in the Design Think Process: Define the Problem and Interpret the Results’, Interaction Design    Foundation, November, viewed 20 May 2020, <https://www.interaction-design.org/literature/article/stage-2-in-the-design-  thinking-process-define-the-problem-and-interpret-the-results>.
 
