@@ -52,6 +52,41 @@ The travel company hopes to develop an information system that will provide the 
 
 
 ## Assumptions
+* The relationship managers are using the CMC system to increase the sales effectively.
+* The relationship manager will get feedback and ratings from customers every week to review and evaluate performance.
+* The customer's input or details are confidential.
+* The CMC system is implemented with the high secured system.
+* The Relationship Manager (RM) will not be aware of which feedback and rating is assigned by which customers.
+* The customer’s details on the system are only able to be accessed by the RM.
+* The CMC system is trusted to handle large number or incoming calls.
+* All incoming and outgoing calls are recorded and stored in the company database.
+
+
+
+## Point of Views (POV) Statements 
+### Customer 
+* Customer needs to call the travel company because they want to acquire information regarding the holiday packages or book said package(s).
+* Customers who are wondering about certain holiday packages, should be able to talk with the appropriate staff or RM because they would want to get the best answer from experts in that field/expertise.
+### Relationship Manager (RM)
+* RMs who offer the holiday packages need to implement an effective method to approach customers to increase sales.
+* RM who wants to approach customers, need to acquire extensive details on customers to ensure their understanding on the customer preferences (favorites), needs and possible questions.
+* RM who has communicated with customers should know their ratings and feedback, to ensure that they have a clear idea on their own weakness and strengths and complete set tasks the best of their abilities.
+### Travel Company 
+* The travel company needs improve and mainstream the inbound and outbound call system to ensure that they provide the best customer service and assistance to their customers.
+*  The travel company needs to assign the corresponding RM to customers because they want customers to be satisfied with answers/ solutions and offers that they have been provided with.
+* The travel company needs to get feedback and ratings for their RMs because they would like to evaluate the service of the company and provide more training if need be, to ensure the highest degree of customer service is provided.
+
+
+
+## How Might We (HMW) Statements 
+* How might we match the RM with customers?
+* How might we help the RMs get a higher understanding of their customers?
+* How might we know the RM’s performance during their duties?
+* How might we know what the customers feel/expect towards the service?
+* How might we ensure that the customer’s questions and queries are answered to high degree?
+ *How might we build the system to ensure that it can handle a large number of incoming calls?
+
+
 
 
 ## User Stories
