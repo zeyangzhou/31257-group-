@@ -11,6 +11,23 @@
  <hr/>
 
 
+## Executive Summary 
+
+The purpose of this report is to outline, discuss and overcome the current problems and issues faced by the travel company, in regards to an information system for their in-house call management center (CMC). 
+
+The primary objective of the project is to develop and implement an information system that adheres to all set constraints and meets the requirements of stakeholders and users to a satisfactory degree. The Agile Scrum methodology will be utilized during the completion of the project, development, and implementation of the proposed information system.
+
+Various stakeholders will need to be considered during the completion of the project, ensuring the overall success of the project.
+Understanding the perspective and goals of each stakeholder will be vital during the design and development phase, as clashing requirements will mandate what elements will be implemented and what elements will be exempt.
+
+Various assumptions regrading the current system, as well as the proposed system have been made by the development team. These assumptions have been made from the perspectives of all stakeholders (Customers, Relationship Managers, and the Travel Company). 
+
+Through utilization of various modelling techniques such as use case diagrams, activity diagrams and class diagrams, the effectiveness of the proposed system is outlined. Through the use of user stories, the perspective of various stakeholders on the proposed system is highlighted.
+
+The competitive advantage of the proposed system is outlined and discussed. A multitude of factors should be considered during the development of an information system such as cost, timeframe, quality, and increased efficiency.
+
+Although the report outlines and discusses the plethora of benefits that the travel company will gain due to the implementation of the proposed system, there are possible implications and effects if the project fails. Factors that this can affect include cost, time and security (data corruption).
+
 
 
 ## Project Objectives
