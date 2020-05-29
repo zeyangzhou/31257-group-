@@ -10,7 +10,40 @@
   * Zeyang Zhou (13599814)
  <hr/>
 
-
+## Table of Contents 
+- [Executive Summary:](#executive-summary)
+- [Project Objectives:](#project-objectives)
+  * [Instruction:](#instruction)
+  * [Objective:](#objective)
+- [Stakeholders:](#stakeholders)
+  * [Stakeholders Table:](#stakeholders-table)
+  * [Stakeholders Diagram:](#stakeholders-diagram)
+  * [Empathy Diagram:](#empathy-diagram)
+- [Design Thinking Principles:](#design-thinking-principles)
+- [Agile Methodology - Scrum:](#agile-methodology---scrum)
+- [Assumptions:](#assumptions)
+- [Point of Views (POV) Statements:](#point-of-views-pov-statements)
+  * [Customer:](#customer)
+  * [Relationship Manager (RM):](#relationship-manager-rm)
+  * [Travel Company:](#travel-company)
+- [How Might We (HMW) Statements:](#how-might-we-hmw-statements)
+- [User Stories:](#user-stories)
+- [Wordproducts and Models:](#workproducts-and-models)
+  * [Use Case Diagram:](#use-case-diagram)
+    * [Call Management System](#call-management-system)
+  * [Activity Diagram:](#activity-diagram)
+    * [Inbound Call Process](#inbound-call-process)
+    * [Outbound Call Process](#outbound-call-process)
+  * [Class Diagram:](#class-diagram)
+  * [Collaboration Diagram:](#collaboration-diagram)
+    * [Inbound Call Process](#inbound-call-process)
+    * [Outbound Call Process](#outbound-call-process)
+- [Businesss User Analysis](#business-user-analysis)
+  * [Competitive Advantages:](#competitive-advantages)
+  * [Possible Effects When Project Fails:](#possible-effects-when-project-fails)
+- [Conclusion](#conclusion)
+ <hr/>
+ 
 ## Executive Summary 
 
 The purpose of this report is to outline, discuss and overcome the current problems and issues faced by the travel company, in regards to an information system for their in-house call management center (CMC). 
@@ -28,8 +61,6 @@ The competitive advantage of the proposed system is outlined and discussed. A mu
 
 Although the report outlines and discusses the plethora of benefits that the travel company will gain due to the implementation of the proposed system, there are possible implications and effects if the project fails. Factors that this can affect include cost, time and security (data corruption).
 
-
-
 ## Project Objectives
 ### Instruction
 This report is to define the potential problems of the major travel company and help with developing information system which is for 
@@ -42,31 +73,23 @@ which is linked to end-customer and Relationship Managers (RM) needs to develope
 
 On the other hand, from the perspective of the company, the constraints of time and cost also need to be considered, parallel with risk management. A variety of preparation need to be considered once the development is having some trouble or not successful.
 
-
-
-
 ## Stakeholders
-### Stakeholders table 
+### Stakeholders Table 
 ![Stakeholders Table ](Diagrams/stakeholdertable.png)
 ***
 ### Stakeholders Diagram 
 ![Stakeholders](Diagrams/stakeholder.png.png)
 ***
-### Empathy diagram
+### Empathy Diagram
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
 ***
-
 
 ## Design Thinking Principles
 From the perspective of design thinking principles, the solutions outlined in the discussion topic have the room for improvement. For instance, the company can do a customer survey, focusing on the hobbies and traits of customers. The customers who have done the survey will get a free gift package or voucher. Although this may increase cost, it will allow for attaining more data on the demands and interests of customers at differnt stages. After the survey is completed, the RM profile can be better applied. Also, the dataset of customer database will have more comprehensive expansion. On the other hand, it contains some biases on the part of inbound calls. The score may be affected due to some other elements (service attitude, calling connection etc.) Instead, the score mechanism can be developed more directly. For example, the staff can ask customers if they are  interested in particular packages or express elements  needed to be improved for the package. After that, the thought of customer will be recorded onto the database of customer interests.
 
-
-
 ## Agile Methodology - Scrum
 The agile methodology is a project management process, which is mainly used for software development. In this process, customer needs and solutions are developed through the joint efforts of the company, the team, and the customer.
 The travel company hopes to develop an information system that will provide the company with services and assistance to their customers. And the system will automatically help customers match travel plans suitable for customers. For example, when a company sells a specific travel package, the system automatically matches suitable customers. Match with Relationship Managers based on client's age, hobbies, etc. This makes it easier for RM to persuade customers to buy products. When company employees use the system, it only takes a very short time to match.
-
-
 
 ## Assumptions
 * The relationship managers are using the CMC system to increase the sales effectively.
@@ -77,8 +100,6 @@ The travel company hopes to develop an information system that will provide the 
 * The customer’s details on the system are only able to be accessed by the RM.
 * The CMC system is trusted to handle large number or incoming calls.
 * All incoming and outgoing calls are recorded and stored in the company database.
-
-
 
 ## Point of Views (POV) Statements 
 ### Customer 
@@ -93,8 +114,6 @@ The travel company hopes to develop an information system that will provide the 
 *  The travel company needs to assign the corresponding RM to customers because they want customers to be satisfied with answers/ solutions and offers that they have been provided with.
 * The travel company needs to get feedback and ratings for their RMs because they would like to evaluate the service of the company and provide more training if need be, to ensure the highest degree of customer service is provided.
 
-
-
 ## How Might We (HMW) Statements 
 * How might we match the RM with customers?
 * How might we help the RMs get a higher understanding of their customers?
@@ -102,9 +121,6 @@ The travel company hopes to develop an information system that will provide the 
 * How might we know what the customers feel/expect towards the service?
 * How might we ensure that the customer’s questions and queries are answered to high degree?
  *How might we build the system to ensure that it can handle a large number of incoming calls?
-
-
-
 
 ## User Stories
 | As a/an | I want to | so that | Priority |
@@ -118,8 +134,6 @@ The travel company hopes to develop an information system that will provide the 
 | Relationship Manager | Know my customer needs or details | I can serve the customer well and increase the sales | High |
 | Relationship Manager | Get the customer list with their details | I can contact them and increase the sales | High |
 | Relationship Manager | Stores my skills and profile in the company | I can get directed with the customer based on my profile and skills | High |
-
-
 
 ## Workproducts and Models
 ### Use Case Diagram
@@ -155,6 +169,11 @@ Compare to Other business's model, The CMC which have the IS system will be proc
   ### Possible Effects When Project Fails
    The actual impact when an Infomation system fails when it is already implanted in the business could be huge. However, when the project was first invented for the CMC, it will be considered a minimum of the damage cost to the leading company.
 There will be three possible effects that could happen once project fails, first of all, will be financial costs, compare to other businesses, the financial cost will mainly be caused by reviving the customer details and employment costs to fixing the system. That will lead to secondary effects that are wasted time and human resources, because of the maintenance requires less employee, so the project teams could be small after the IS system be implanted for CMC, so when coming to the project fails or have a significant problem, it requires whole teams or more to fix.  And last possible Effects could be missing or corrupted data in CMC, which is a critical problem that needs to be considered, to avoid this, it is keeping data safe and secure all the time, which requires teams member check every day.
+
+## Conclusion 
+
+
+
 
 ## References 
 
