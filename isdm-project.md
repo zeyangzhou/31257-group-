@@ -81,8 +81,10 @@ On the other hand, from the perspective of the company, the constraints of time 
 ![Stakeholders](Diagrams/stakeholder.png.png)
 ***
 ### Empathy Diagram
+#### Relationship Manager
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
-![Map](Diagrams/nameishile.jpg)
+#### Customer
+![Map2](Diagrams/Empathy-Map-for-customer.jpg)
 ***
 
 ## Design Thinking Principles
@@ -144,24 +146,31 @@ The travel company hopes to develop an information system that will provide the 
 ***
   #### Call Management System
   ![InboundCallProcess](Diagrams/usecase.png)
+ <br/> As the diagram shown above, it shows how the CMC system works which customer and relationship manager take part of the system.
+  The main stakeholders are the customer, relationship manager and CMC system.  The CMC system will take two main processes with sub-processes, customer take four main processes and relationship manager take four main processes as well   
   
 ### Activity Diagram
 ***
   #### Inbound Call Process
   ![InboundCallProcess](Diagrams/inBoundActivity.png)
+  <br/>As the diagram shown above, it shows the activity how the customer make a sequence call process to the relationship manager which needs the Call Management System as the platform or system to connect relationship manager.
   #### Outbound Call Process
   ![OutboundCallProcess](Diagrams/outboundActivity.png)
+  <br/>As the diagram shown above, it shows the activity how the relationship manager gets the customer's details and approach the customer to offer the holiday packages.
 
 ### Class Diagram
 ***
   ![InboundCallProcess](Diagrams/classDiagram.png)
+<br/>The diagram above shows the objects or stakeholders which will be included on the system (review, employee, holiday package, booking, payment, customer and call history). Each objects or stakeholders has their own the properties and behaviour or methods to perform into this CMC system.
   
 ### Collaboration Diagram
 ***
   #### Inbound Call Process
   ![InboundCallProcess](Diagrams/inboundCollaborative.png)
+  <br/>As the diagram shown above, it shows the process how the customer interacts with the relationship manager which needs to pass through some elements or processes. 
   #### Outbound Call Process
   ![OutboundCallProcess](Diagrams/outboundCollaborative.png)
+ <br/> As the diagram shown above, it shows the process how the call management centre generates the customer details list and send it to the suitable relationship managers. At the end of the process of this diagram, it will approach the customer and offer the holiday packages to them.
   
 ## Business User Analysis
   
@@ -174,16 +183,14 @@ Compare to other business's model, The proposed IS system will be operating smoo
    The actual impact when an Infomation system fails when it is already implanted in the business could be enormous. However, when the project was first invented for the CMC, damage cost can be considered a minimal to the leading company.
 There will be three possible effects that could happen once the project fails, first of all, will be financial costs. compare to other businesses, the financial cost will mainly be caused by reviving the customer details and employment costs to fixing the system. This will lead to secondary effects that are wasted time and human resources, because maintenance will require less employee. Resulting in project teams being small after the IS system is implanted for CMC. So when the project fails or has a significant problem it will require whole teams to fix. The last possible Effects could be missing or corrupted data in CMC, which is a critical problem that needs to be considered. to avoid this,  data should be kept safe and secure all the time.
 
- ### Conclution 
 
-Through the utilization of various modeling techniques, the design of the proposed system is outlined. Through an extensive analysis of the proposed system, various advantages of the system and risks of failure are highlighted.
 
 
 ## References 
 
 Williams,P.2017.THE TRUE IMPACT OF IT FAILURES,https://www.codestone.net/our-thoughts/true-impact-of-it-failures/
 
-Anonymous，How Do Information Systems Provide Competitive Advantage?，https://sites.google.com/site/bus141wikisite/home/chapter-3-strategy-information-systems-and-competitive-advantag/how-do-information-systems-provide-competitive-
+anonymous，How Do Information Systems Provide Competitive Advantage?，https://sites.google.com/site/bus141wikisite/home/chapter-3-strategy-information-systems-and-competitive-advantag/how-do-information-systems-provide-competitive-
 
 Porter,M,E,Millar,V,E.1985 How Information Gives You Competitive Advantage,https://hbr.org/1985/07/how-information-gives-you-competitive-advantage
 
