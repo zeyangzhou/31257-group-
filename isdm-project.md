@@ -82,7 +82,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 ***
 ### Empathy Diagram
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
-![Map](Diagrams/nemeishile.jpg)
+![Map](Diagrams/nameishile.jpg)
 ***
 
 ## Design Thinking Principles
