@@ -84,7 +84,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 #### Relationship Manager
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
 #### Customer
-![Map2](Diagrams/Empathy-Map-for-customer.jpg)
+![Map2](Diagrams/nameishile.jpg	)
 ***
 
 ## Design Thinking Principles
