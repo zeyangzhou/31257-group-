@@ -65,7 +65,7 @@ Although the report outlines and discusses the plethora of benefits that the tra
 ## Problem Definition
 
 ### Objective
-This Purpose this report is to define the potential problems of the major travel company and help with developing information system which is for increasing the sales volume of travel package. And also, the final result and methods of development will be estimated and analysed 
+The Purpose this report is to define the potential problems of the major travel company and help with developing information system which is for increasing the sales volume of travel package. And also, the final result and methods of development will be estimated and analysed 
 according to various of methods.
 
 The major travel company is facing the problem of the technique of information system. In more details, the calling system 
