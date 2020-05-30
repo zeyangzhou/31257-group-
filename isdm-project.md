@@ -174,14 +174,15 @@ Compare to other business's model, The proposed IS system will be operating smoo
    The actual impact when an Infomation system fails when it is already implanted in the business could be enormous. However, when the project was first invented for the CMC, damage cost can be considered a minimal to the leading company.
 There will be three possible effects that could happen once the project fails, first of all, will be financial costs. compare to other businesses, the financial cost will mainly be caused by reviving the customer details and employment costs to fixing the system. This will lead to secondary effects that are wasted time and human resources, because maintenance will require less employee. Resulting in project teams being small after the IS system is implanted for CMC. So when the project fails or has a significant problem it will require whole teams to fix. The last possible Effects could be missing or corrupted data in CMC, which is a critical problem that needs to be considered. to avoid this,  data should be kept safe and secure all the time.
 
-
+ ### Conclution 
+ 
 
 
 ## References 
 
 Williams,P.2017.THE TRUE IMPACT OF IT FAILURES,https://www.codestone.net/our-thoughts/true-impact-of-it-failures/
 
-anonymous，How Do Information Systems Provide Competitive Advantage?，https://sites.google.com/site/bus141wikisite/home/chapter-3-strategy-information-systems-and-competitive-advantag/how-do-information-systems-provide-competitive-
+Anonymous，How Do Information Systems Provide Competitive Advantage?，https://sites.google.com/site/bus141wikisite/home/chapter-3-strategy-information-systems-and-competitive-advantag/how-do-information-systems-provide-competitive-
 
 Porter,M,E,Millar,V,E.1985 How Information Gives You Competitive Advantage,https://hbr.org/1985/07/how-information-gives-you-competitive-advantage
 
