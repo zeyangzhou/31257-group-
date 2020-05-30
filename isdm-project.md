@@ -212,6 +212,10 @@ Compare to other business's model, The proposed IS system will be operating smoo
    The actual impact when an Infomation system fails when it is already implanted in the business could be enormous. However, when the project was first invented for the CMC, damage cost can be considered a minimal to the leading company.
 There will be three possible effects that could happen once the project fails, first of all, will be financial costs. compare to other businesses, the financial cost will mainly be caused by reviving the customer details and employment costs to fixing the system. This will lead to secondary effects that are wasted time and human resources, because maintenance will require less employee. Resulting in project teams being small after the IS system is implanted for CMC. So when the project fails or has a significant problem it will require whole teams to fix. The last possible Effects could be missing or corrupted data in CMC, which is a critical problem that needs to be considered. to avoid this,  data should be kept safe and secure all the time.
 
+ ### Conclusion  
+
+
+Through the utilization of various modeling techniques, the design of the proposed system is outlined. Through an extensive analysis of the proposed system, various advantages of the system and risks of failure are highlighted.
 
 
 
