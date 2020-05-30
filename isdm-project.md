@@ -129,17 +129,17 @@ The travel company hopes to develop an information system that will provide the 
  *How might we build the system to ensure that it can handle a large number of incoming calls?
 
 ## User Stories
-| As a/an | I want to | so that | Priority |
-| :------------- | :----------- | :----------- | :----------- |
-| Customer | Call the company easily | I can ask or book the holiday pacakage efficiently | High |
-| Customer | Talk with the skilled and suitable employee | I can get the best answer from my question| High |
-| Customer | Directly connect to the relationship manager | I do not need to wait on the call queue | Medium|
-| Customer | Have a list with the company of my favourite holiday packages  | They can contact me whenever they offer the packages | Medium |
-| Customer | Give feedback and ratings to the employee who I talked with | They can know how their perform | Low |
-| Relationship Manager | Get the feedback or ratings from my customer | I can improve my customer service skill | Medium |
-| Relationship Manager | Know my customer needs or details | I can serve the customer well and increase the sales | High |
-| Relationship Manager | Get the customer list with their details | I can contact them and increase the sales | High |
-| Relationship Manager | Store my skills and profile in the company | I can get directed with the customer based on my profile and skills | High |
+| User Stories #| As a/an | I want to | So that | Estimates | Priority |
+|:------------- | :------------- | :----------- | :----------- | :----------- | :----------- |
+| 101 | Customer | Call the travel company easily | I can ask or book the holiday pacakage efficiently | 4 | High |
+| 102 | Customer | Talk with the skilled and suitable employee | I can get the best answer from my question| 2 | High |
+| 103 | Customer | Directly connect to the relationship manager | I do not need to wait on the call queue | 2 | Medium|
+| 104 | Customer | Have a list with the company of my favourite holiday packages  | They can contact me whenever they offer the packages | 1 | Medium |
+| 105 | Customer | Give feedback and ratings to the employee who I talked with | They can know how their perform | 2 | Low |
+| 201 | Relationship Manager | Get the feedback or ratings from my customer | I can improve my customer service skill | 1 | Medium |
+| 202 | Relationship Manager | Know my customer needs or details | I can serve the customer well and increase the sales | 2 | High |
+| 203 | Relationship Manager | Get the customer list with their details | I can contact them and increase the sales | 2 | High |
+| 204 | Relationship Manager | Store my skills and profile in the company | I can get directed with the customer based on my profile and skills | 4 | High |
 
 ## Workproducts and Models
 ### Use Case Diagram
@@ -148,7 +148,36 @@ The travel company hopes to develop an information system that will provide the 
   ![InboundCallProcess](Diagrams/usecase.png)
  <br/> As the diagram shown above, it shows how the CMC system works which customer and relationship manager take part of the system.
   The main stakeholders are the customer, relationship manager and CMC system.  The CMC system will take two main processes with sub-processes, customer take four main processes and relationship manager take four main processes as well   
-  
+ 
+#### Use Case Narative
+| Use Case ID | UC101 : Inbound Call Process |
+|:------------- | :------------- |
+| User Story | US102 : As a customer, I want to talk with the skilled and suitable employee so that I can get the best answer from my question | 
+| Goal | Talk with the suitable relationship manager and get the answer  | 
+| Actors | Primary Actor - Customer<br/> Second Actor - Relationship Manager, Call Management System |
+| Pre-conditions | The customer makes a call to the travel company | 
+| Post-conditions | The customer has successfully connected with the suitable relationship manager | 
+| Trigger | The customer has the question regarding to the holiday packages  | 
+| Main Flow | 1. The customer make a call to the travel company.<br/> 2. The call management system from the travel company receives the call.<br/> 3. The system analyses the customer's number and matches it to the database. <br/> 4. The system will pass the call to the suitable relationship manager. <br/> 5. The relationship manager receives the call. <br/> 6. The relationship manager answers the customer questions and handle the customer's needs <br/> 7. The customer ends the call <br/> 8. The call system asks the customer to provide the feedback and rating. <br/> 9. The input is stored into the database. <br/>10. Use case ends.| 
+| Exceptions | Step 4-10 : the relationship manager is still on call with another customer. | 
+| Includes | US101 : As a customer, I want to call the travel company easily so that I can ask or book the holiday pacakage efficiently<br/> US103 : As a customer, I want to directly connect to the relationship manager so that I do not need to wait on the call queue <br/>  US105 : As a customer, I want to give feedback and ratings to the employee who I talked with so that they can know how their perform. |
+| Supporting Information | The customer will be on call queue if the relationship manager is still on call with another customer.|
+| Non-functional Requirements | Security: Only relationship manager can talk with the customer and all the details are confidental |
+
+| Use Case ID | UC102 : Outbound Call Process |
+|:------------- | :------------- |
+| User Story | US203 : As a relationship manager, I want to get the customer list with their details so that I can contact them and increase the sales |
+| Goal | Call the customer and increases the sales  | 
+| Actors | Primary Actor - Relationship Manager<br/> Second Actor - Customer, Call Management System |
+| Pre-conditions | The relationship manager gets the customer list from the company's system | 
+| Post-conditions | The relationship has successfully connected with the customer and offers the holiday packages | 
+| Trigger | The relationship needs to increase the sales  | 
+| Main Flow | 1. The call management system generates the customer details list.<br/> 2. The call management system  shares the list to the relationship manager.<br/> 3. The relationship manager receives the data. <br/> 4. The relationship manager makes a call to the customer. <br/> 5. The customer receives the call.<br/> 6. The relationship manager offers the holiday packages and provides the details.<br/> 7. The customer finishes the call<br/> 8. The call system asks the customer to provide the feedback and rating from the services.<br/> 9. The data input is stored into database. <br/> 10. Use case ends.| 
+| Exceptions | Step 4-10 : the customer does not pick up the call. | 
+| Includes | US201 : As a relationship manager, I want to get the feedback or ratings from my customer so that I can improve my customer service skill.<br> US 202 :As a relationship manager, I want to know my customer needs or details  so that I can serve the customer well and increase the sales |
+| Supporting Information |  |
+| Non-functional Requirements | Security: The customer details will be only accessible by the relationship manager |
+
 ### Activity Diagram
 ***
   #### Inbound Call Process
