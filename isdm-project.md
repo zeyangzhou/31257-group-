@@ -13,8 +13,7 @@
 ## Table of Contents 
 - [Executive Summary:](#executive-summary)
 - [Project Objectives:](#project-objectives)
-  * [Instruction:](#instruction)
-  * [Objective:](#objective)
+  * [Objectives:](#objectives)
 - [Stakeholders:](#stakeholders)
   * [Stakeholders Table:](#stakeholders-table)
   * [Stakeholders Diagram:](#stakeholders-diagram)
@@ -32,6 +31,7 @@
 - [Wordproducts and Models:](#workproducts-and-models)
   * [Use Case Diagram:](#use-case-diagram)
     * [Call Management System:](#call-management-system)
+    * [Use Case Narratives:](#use-case-narratives)
   * [Activity Diagram:](#activity-diagram)
     * [Inbound Call Process:](#inbound-call-process)
     * [Outbound Call Process:](#outbound-call-process)
@@ -64,7 +64,7 @@ Although the report outlines and discusses the plethora of benefits that the tra
 
 ## Problem Definition
 
-### Objective
+### Objectives
 The Purpose this report is to define the potential problems of the major travel company and help with developing information system which is for increasing the sales volume of travel package. And also, the final result and methods of development will be estimated and analysed 
 according to various of methods.
 
@@ -149,7 +149,7 @@ The travel company hopes to develop an information system that will provide the 
  <br/> As the diagram shown above, it shows how the CMC system works which customer and relationship manager take part of the system.
   The main stakeholders are the customer, relationship manager and CMC system.  The CMC system will take two main processes with sub-processes, customer take four main processes and relationship manager take four main processes as well   
  
-#### Use Case Narative
+#### Use Case Narratives
 | Use Case ID | UC101 : Inbound Call Process |
 |:------------- | :------------- |
 | User Story | US102 : As a customer, I want to talk with the skilled and suitable employee so that I can get the best answer from my question | 
