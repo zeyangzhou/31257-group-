@@ -62,13 +62,11 @@ The competitive advantage of the proposed system is outlined and discussed. A mu
 
 Although the report outlines and discusses the plethora of benefits that the travel company will gain due to the implementation of the proposed system, there are possible implications and effects if the project fails. Factors that this can affect include cost, time and security (data corruption).
 
-## Project Objectives
-### Instruction
-This report is to define the potential problems of the major travel company and help with developing information system which is for 
-increasing the sales volume of travel package. And also, the final result and methods of development will be estimated and analysed 
-according to various of methods.
+## Problem Definition
 
 ### Objective
+This Purpose this report is to define the potential problems of the major travel company and help with developing information system which is for increasing the sales volume of travel package. And also, the final result and methods of development will be estimated and analysed 
+according to various of methods.
 The major travel company is facing the problem of the technique of information system. In more details, the calling system 
 which is linked to end-customer and Relationship Managers (RM) needs to developed and implemented. In addition, the primary goal of the company is to increase profits, therefore the processes of customer service need to be improved. 
 
