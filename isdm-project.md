@@ -180,7 +180,7 @@ There will be three possible effects that could happen once project fails, first
 
 ## References 
 
-Williams,P.2017,THE TRUE IMPACT OF IT FAILURES,https://www.codestone.net/our-thoughts/true-impact-of-it-failures/
+Williams,P.2017.THE TRUE IMPACT OF IT FAILURES,https://www.codestone.net/our-thoughts/true-impact-of-it-failures/
 
 anonymous，How Do Information Systems Provide Competitive Advantage?，https://sites.google.com/site/bus141wikisite/home/chapter-3-strategy-information-systems-and-competitive-advantag/how-do-information-systems-provide-competitive-
 
