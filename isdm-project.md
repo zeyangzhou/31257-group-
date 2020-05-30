@@ -25,6 +25,7 @@
 - [Point of Views (POV) Statements:](#point-of-views-pov-statements)
   * [Customer:](#customer)
   * [Relationship Manager (RM):](#relationship-manager-rm)
+  * [Project Develop Team](#project-develop-team)
   * [Travel Company:](#travel-company)
 - [How Might We (HMW) Statements:](#how-might-we-hmw-statements)
 - [User Stories:](#user-stories)
@@ -109,10 +110,13 @@ The travel company hopes to develop an information system that will provide the 
 * RMs who offer the holiday packages need to implement an effective method to approach customers to increase sales.
 * RM who wants to approach customers, need to acquire extensive details on customers to ensure their understanding on the customer preferences (favorites), needs and possible questions.
 * RM who has communicated with customers should know their ratings and feedback, to ensure that they have a clear idea on their own weakness and strengths and complete set tasks the best of their abilities.
+### Project Develop Team
+* The project develop team needs to implement, test and maintain the system because they want to ensure that the system is ready to be used by the travel company staff and customer.
 ### Travel Company 
-* The travel company needs improve and mainstream the inbound and outbound call system to ensure that they provide the best customer service and assistance to their customers.
+* The travel company needs to improve and mainstream the inbound and outbound call system to ensure that they provide the best customer service and assistance to their customers.
 *  The travel company needs to assign the corresponding RM to customers because they want customers to be satisfied with answers/ solutions and offers that they have been provided with.
 * The travel company needs to get feedback and ratings for their RMs because they would like to evaluate the service of the company and provide more training if need be, to ensure the highest degree of customer service is provided.
+
 
 ## How Might We (HMW) Statements 
 * How might we match the RM with customers?
