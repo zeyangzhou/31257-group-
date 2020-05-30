@@ -82,7 +82,7 @@ On the other hand, from the perspective of the company, the constraints of time 
 ***
 ### Empathy Diagram
 ![Map](Diagrams/81492822-6306b380-92de-11ea-9cd1-5eb52f4b89ea.jpg)
-![Map2](Diagrams/nameishile.jpg)
+![Map2](Diagrams/Empathy-Map-for-customer.jpg)
 ***
 
 ## Design Thinking Principles
@@ -132,12 +132,12 @@ The travel company hopes to develop an information system that will provide the 
 | Customer | Call the company easily | I can ask or book the holiday pacakage efficiently | High |
 | Customer | Talk with the skilled and suitable employee | I can get the best answer from my question| High |
 | Customer | Directly connect to the relationship manager | I do not need to wait on the call queue | Medium|
-| Customer | The company knows my favourite holiday packages | They can contact me whenever they offer the packages | Medium |
-| Customer | Give the feedback and rating to the employee who I talked with | They can know how their performance | Low |
-| Relationship Manager | Get the feedback or rating from my customer | I can improve my customer service skill | Medium |
+| Customer | Have a list with the company of my favourite holiday packages  | They can contact me whenever they offer the packages | Medium |
+| Customer | Give feedback and ratings to the employee who I talked with | They can know how their perform | Low |
+| Relationship Manager | Get the feedback or ratings from my customer | I can improve my customer service skill | Medium |
 | Relationship Manager | Know my customer needs or details | I can serve the customer well and increase the sales | High |
 | Relationship Manager | Get the customer list with their details | I can contact them and increase the sales | High |
-| Relationship Manager | Stores my skills and profile in the company | I can get directed with the customer based on my profile and skills | High |
+| Relationship Manager | Store my skills and profile in the company | I can get directed with the customer based on my profile and skills | High |
 
 ## Workproducts and Models
 ### Use Case Diagram
